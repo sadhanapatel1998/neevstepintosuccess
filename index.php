@@ -224,10 +224,13 @@ ob_start();
                                     <img src="assets/images/courses/class-6th.png" alt="shape">
                                 </div>
                                 <div class="offer-card-content">
-                                    <a href="class-six.php"><h3>Class 6th Foundation</h3></a>
+                                    <a href="class-six.php">
+                                        <h3>Class 6th Foundation</h3>
+                                    </a>
                                     <p>Strong foundation in Mathematics, Science and English with concept clarity.</p>
                                 </div>
-                                <a href="class-six.php" class="offer-redirect-link"><i class="flaticon-right-arrow"></i></a>
+                                <a href="class-six.php" class="offer-redirect-link"><i
+                                        class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>
                     </div>
@@ -240,10 +243,13 @@ ob_start();
                                     <img src="assets/images/courses/class-7th.png" alt="shape">
                                 </div>
                                 <div class="offer-card-content">
-                                    <a href="class-seven.php"><h3>Class 7th Concept Builder</h3></a>
+                                    <a href="class-seven.php">
+                                        <h3>Class 7th Concept Builder</h3>
+                                    </a>
                                     <p>Focus on analytical learning, structured notes and regular practice.</p>
                                 </div>
-                                <a href="class-seven.php" class="offer-redirect-link"><i class="flaticon-right-arrow"></i></a>
+                                <a href="class-seven.php" class="offer-redirect-link"><i
+                                        class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>
                     </div>
@@ -256,10 +262,13 @@ ob_start();
                                     <img src="assets/images/courses/class-8th.png" alt="shape">
                                 </div>
                                 <div class="offer-card-content">
-                                    <a href="class-eight.php"><h3>Class 8th Advanced Learning</h3></a>
+                                    <a href="class-eight.php">
+                                        <h3>Class 8th Advanced Learning</h3>
+                                    </a>
                                     <p>Advanced preparation with chapter-wise worksheets and tests.</p>
                                 </div>
-                                <a href="class-eight.php" class="offer-redirect-link"><i class="flaticon-right-arrow"></i></a>
+                                <a href="class-eight.php" class="offer-redirect-link"><i
+                                        class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>
                     </div>
@@ -272,10 +281,13 @@ ob_start();
                                     <img src="assets/images/courses/class-9th.png" alt="shape">
                                 </div>
                                 <div class="offer-card-content">
-                                     <a href="class-nine.php"><h3>Class 9th Academic Course</h3></a>
+                                    <a href="class-nine.php">
+                                        <h3>Class 9th Academic Course</h3>
+                                    </a>
                                     <p>Complete CBSE syllabus coverage with weekly tests and assignments.</p>
                                 </div>
-                                <a href="class-nine.php" class="offer-redirect-link"><i class="flaticon-right-arrow"></i></a>
+                                <a href="class-nine.php" class="offer-redirect-link"><i
+                                        class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>
                     </div>
@@ -288,10 +300,13 @@ ob_start();
                                     <img src="assets/images/courses/class-10th.png" alt="shape">
                                 </div>
                                 <div class="offer-card-content">
-                                    <a href="class-ten.php"><h3>Class 10th Board Preparation</h3></a>
+                                    <a href="class-ten.php">
+                                        <h3>Class 10th Board Preparation</h3>
+                                    </a>
                                     <p>Special preparation for CBSE Board Exams with test series and revision.</p>
                                 </div>
-                                <a href="class-ten.php" class="offer-redirect-link"><i class="flaticon-right-arrow"></i></a>
+                                <a href="class-ten.php" class="offer-redirect-link"><i
+                                        class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>
                     </div>
@@ -383,65 +398,11 @@ ob_start();
 </div>
 <!-- .counter-section -->
 
-<!-- help-section -->
-<section class="help-section pt-100 pb-70">
-    <div class="container">
-        <div
-            class=" text-center mb-5 about-section-title section-title section-title-left section-title-shapeless section-title-lineless section-title-secondcolor">
-            <small class="font-family-3">Admission Process</small>
-            <h2>Steps For Enquiry & <span>Admission</span></h2>
-        </div>
-        <div class="row">
-            <div class="col-12 col-sm-6 col-lg-3 pb-30">
-                <div class="help-card help-card-center">
-                    <div class="help-card-thumb">
-                        <div class="step-number">01</div>
-                    </div>
-                    <div class="help-card-content">
-                        <h3>Contact Us</h3>
-                        <p>Call, WhatsApp, or submit an enquiry form to connect with us and get course details.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 pb-30">
-                <div class="help-card help-card-center">
-                    <div class="help-card-thumb">
-                        <div class="step-number">02</div>
-                    </div>
-                    <div class="help-card-content">
-                        <h3>Free Demo Class</h3>
-                        <p>Attend a demo session to understand our teaching style and classroom learning approach.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 pb-30">
-                <div class="help-card help-card-center">
-                    <div class="help-card-thumb">
-                        <div class="step-number">03</div>
-                    </div>
-                    <div class="help-card-content">
-                        <h3>Choose Batch</h3>
-                        <p>Select a suitable batch timing that fits your schedule and preferred learning hours.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 pb-30">
-                <div class="help-card help-card-center">
-                    <div class="help-card-thumb">
-                        <div class="step-number">04</div>
-                    </div>
-                    <div class="help-card-content">
-                        <h3>Start Learning</h3>
-                        <p>Complete the admission process and begin your journey towards academic success.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- .end help-section -->
+<!-- team-section -->
+<?php include('include/team.php'); ?>
+<!--.end team-section -->
 
-<!-- download-section -->
+<!-- Why Choose-section -->
 <section class="download-section pt-80 pb-50 bg-thirdcolor-light position-relative desk-mt-30">
     <div class="bg-shapes">
         <div class="bg-top-shape mobile-hide">
@@ -542,11 +503,130 @@ ob_start();
         </div>
     </div>
 </section>
-<!-- .end download-section -->
+<!-- .end Why Choose-section -->
+
+<!-- Process-section -->
+<section class="help-section pt-100 pb-70">
+    <div class="container">
+        <div
+            class=" text-center mb-5 about-section-title section-title section-title-left section-title-shapeless section-title-lineless section-title-secondcolor">
+            <small class="font-family-3">Admission Process</small>
+            <h2>Steps For Enquiry & <span>Admission</span></h2>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-6 col-lg-3 pb-30">
+                <div class="help-card help-card-center">
+                    <div class="help-card-thumb">
+                        <div class="step-number">01</div>
+                    </div>
+                    <div class="help-card-content">
+                        <h3>Contact Us</h3>
+                        <p>Call, WhatsApp, or submit an enquiry form to connect with us and get course details.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-3 pb-30">
+                <div class="help-card help-card-center">
+                    <div class="help-card-thumb">
+                        <div class="step-number">02</div>
+                    </div>
+                    <div class="help-card-content">
+                        <h3>Free Demo Class</h3>
+                        <p>Attend a demo session to understand our teaching style and classroom learning approach.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-3 pb-30">
+                <div class="help-card help-card-center">
+                    <div class="help-card-thumb">
+                        <div class="step-number">03</div>
+                    </div>
+                    <div class="help-card-content">
+                        <h3>Choose Batch</h3>
+                        <p>Select a suitable batch timing that fits your schedule and preferred learning hours.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-3 pb-30">
+                <div class="help-card help-card-center">
+                    <div class="help-card-thumb">
+                        <div class="step-number">04</div>
+                    </div>
+                    <div class="help-card-content">
+                        <h3>Start Learning</h3>
+                        <p>Complete the admission process and begin your journey towards academic success.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- .end Process-section -->
+
+
+<!-- Scholars-section -->
+<div class="about-section counter-section bg-thirdcolor-light pt-80 pb-70 position-relative mt-40">
+    <div class="bg-shapes">
+        <div class="bg-top-shape mobile-hide">
+            <img src="assets/images/shapes/bg-top-shape.png" alt="shape">
+        </div>
+    </div>
+
+    <div class="record-animate-shapes">
+        <div class="record-animate-shape animation-tab-none">
+            <img src="assets/images/shapes/shape-1.png" alt="shape">
+        </div>
+    </div>
+
+    <div class="container scholar-showcase">
+        <!-- three cards -->
+        <div class="row justify-content-center">
+            <div class="col-md-5 col-sm-5">
+                <div
+                    class="about-section-title section-title section-title-left section-title-shapeless section-title-lineless section-title-thirdcolor">
+                    <small class="font-family-3">Our Pride</small>
+                    <h2>2026 <span>Scholars</span></h2>
+                    <p>
+                        Meet our exceptional scholars whose dedication, discipline, and outstanding academic
+                        achievements inspire every student to dream bigger and strive for excellence.<br> Their
+                        success is a proud reflection of the values and guidance at Neev Step into Success.
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-7 col-sm-7">
+                <div class="row g-4">
+                    <!-- Scholar -->
+                    <div class="col-lg-6 col-md-6">
+                        <div class="scholar-box">
+                            <div class="scholar-photo">
+                                <img src="assets/images/scholar/aditya-tanwar.jpg" alt="Aditya Tanwar">
+                            </div>
+
+                            <h4>Aditya Tanwar</h4>
+                        </div>
+                    </div>
+
+                    <!-- Scholar -->
+                    <div class="col-lg-6 col-md-6">
+                        <div class="scholar-box">
+                            <div class="scholar-photo">
+                                <img src="assets/images/scholar/advit-krishna.jpg" alt="Advit Krishna">
+                            </div>
+
+                            <h4>Advit Krishna</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /row -->
+    </div>
+</div>
+<!-- .Scholars-section -->
 
 <!-- testimonial-section -->
 <section class="testimonial-section p-tb-80 position-relative">
-    <div class="container pt-50">
+    <div class="container">
         <div class="section-title section-title-shapeless section-title-lineless section-title-secondcolor">
             <small class="font-family-3">Testimonials</small>
             <h2>Customers <span>Kindful Words</span></h2>

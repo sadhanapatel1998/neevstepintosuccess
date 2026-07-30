@@ -10610,3 +10610,48 @@ blockquote.blockquote-thirdcolor .blockquote-inner:before {
         box-shadow:0 0 0 0 rgba(0,0,0,0);
     }
 }
+
+.text-saffron{
+  color: #DD520F;
+}
+
+
+.scholar-box{
+    display:block;
+    text-align:center;
+    background:#fff;
+    padding:35px 20px;
+    border-radius:25px;
+    border:2px solid #ffe0d6;
+    text-decoration:none;
+    transition:.35s;
+}
+
+.scholar-box:hover{
+    transform:translateY(-8px);
+    border-color:#ff5a1f;
+    box-shadow:0 15px 40px rgba(0,0,0,.08);
+}
+
+.scholar-photo{
+    width:170px;
+    height:170px;
+    margin:auto;
+    border-radius:50%;
+    padding:6px;
+    border:3px solid #ff5a1f;
+}
+
+.scholar-photo img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+.scholar-box h4{
+    margin-top:22px;
+    color:#1f2d3d;
+    font-weight:600;
+    font-size:22px;
+}
