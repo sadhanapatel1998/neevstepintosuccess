@@ -1,4 +1,45 @@
 <!-- navbar -->
+<!-- ═══ TOP HEADER – SAFFRON INFO BAR ═══ -->
+<div class="top-header  ">
+    <div class="container-fluid around-padding py-0 ">
+        <div class="top-header-inner px-3">
+            <!-- Left: Contact Info -->
+            <div class="top-header-left">
+                <a href="tel:+919310103871" class="top-header-link">
+                    <i class="bi bi-telephone-fill"></i>
+                    <span class="d-block">+91 9310103871</span>
+                </a>
+                <span class="top-header-divider"></span>
+                <a href="tel:9211644840" class="top-header-link">
+                    <span>+91 9211644840</span>
+                </a>
+                <span class="top-header-divider"></span>
+                <a href="https://maps.app.goo.gl/8fbnPv4Kds9owbjp9" target="_blank" class="top-header-link">
+                    <i class="bi bi-geo-alt-fill"></i>
+                    <span>A-78, near SUPREME TOWERS, Block B,
+                        Sector 99, Noida, Uttar Pradesh 201304</span>
+                </a>
+            </div>
+
+            <!-- Right: Social Icons -->
+            <div class="top-header-right">
+                <a href="#" class="top-header-social" aria-label="Facebook">
+                    <i class="bi bi-facebook"></i>
+                </a>
+                <a href="#" class="top-header-social" aria-label="Instagram">
+                    <i class="bi bi-instagram"></i>
+                </a>
+                <a href="#" class="top-header-social" aria-label="YouTube">
+                    <i class="bi bi-youtube"></i>
+                </a>
+                <a href="#" class="top-header-social" aria-label="LinkedIn">
+                    <i class="bi bi-linkedin"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="navbar-area">
     <div class="container-fluid around-padding py-0">
         <!-- mobile menu -->
@@ -75,7 +116,8 @@
                     </div>
                     <div class="navbar-option">
                         <div class="navbar-option-item navbar-option-authentication">
-                            <a href="contact-us.php" class="btn main-btn text-nowrap">Get in Touch</a>
+                            <a href="contact-us.php" class="btn main-btn text-nowrap">Get in Touch <i
+                                    class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </nav>

@@ -11,10 +11,8 @@ ob_start();
             <img src="assets/images/banner/2.jpg" alt="Banner 2">
         </div>
     </div>
-    <!-- Navigation -->
     <div class="banner-prev"><i class="bi bi-arrow-left"></i></div>
     <div class="banner-next"><i class="bi bi-arrow-right"></i></div>
-    <!-- Pagination -->
     <div class="banner-pagination"></div>
 </div>
 <!-- .end header -->
@@ -325,6 +323,41 @@ ob_start();
 </section>
 <!-- .Classes offer-section -->
 
+<!-- Online-Classes-section -->
+<section class="online-classes pb-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div
+                    class="about-section-title section-title section-title-left section-title-shapeless section-title-lineless section-title-thirdcolor">
+                    <small class="font-family-3">Learn From Anywhere</small>
+
+                    <h2>Interactive <span>Online Classes</span></h2>
+
+                    <p>
+                        Experience high-quality live online classes designed for students from
+                        Class 6th to 10th. Learn from expert faculty with live doubt-solving,
+                        recorded lectures, regular assessments, and personalized guidance—all
+                        from the comfort of your home.
+                    </p>
+
+                    <div class="section-button-group">
+                        <div class="section-button-item">
+                            <a href="contact-us.php" class="btn main-btn-2 btn-secondcolor">
+                                Apply Now <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <img src="assets/images/about/online-classes.jpg" alt="Online Classes Image" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- .end Online-Classes-section -->
+
 <!-- counter-section -->
 <div class="about-section counter-section bg-thirdcolor-light pt-80 pb-70 position-relative mt-40">
     <div class="bg-shapes">
@@ -591,7 +624,13 @@ ob_start();
                         achievements inspire every student to dream bigger and strive for excellence.<br> Their
                         success is a proud reflection of the values and guidance at Neev Step into Success.
                     </p>
-
+                    <div class="section-button-group">
+                        <div class="section-button-item">
+                            <a href="contact-us.php" class="btn main-btn-2 btn-secondcolor">
+                                Apply Now <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="col-md-7 col-sm-7">

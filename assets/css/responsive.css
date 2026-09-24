@@ -1084,6 +1084,14 @@
 }
 
 @media only screen and (max-width : 767px) {
+  .banner-prev {
+    display: none !important;
+  }
+
+  .banner-next {
+    display: none !important;
+  }
+
   .pt-200 {
     padding-top: 50px;
   }
