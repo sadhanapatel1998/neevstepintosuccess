@@ -101,6 +101,14 @@
                                     <li class="nav-item">
                                         <a href="class-ten.php" class="nav-link">Class X – Board Preparation</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="class-eleven.php" class="nav-link">Class XI – Science (PCM & PCB)</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a href="class-twelve.php" class="nav-link">Class XII – Science (PCM & PCB)</a>
+                                    </li>
+
                                 </ul>
                             </li>
                             <li class="nav-item">

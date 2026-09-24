@@ -31,7 +31,6 @@ ob_start();
                     <div class="instructor-pagination swiper-pagination swiper-pagination-secondcolor"></div>
                 </div>
             </div>
-
             <div class="col-12 col-lg-8 desk-p-0">
                 <div class="instructor-carousel swiper swiper-container">
                     <div class="swiper-wrapper">
@@ -61,6 +60,36 @@ ob_start();
                             <div class="intructor-item-content">
                                 <h3>Comprehensive Test Series</h3>
                                 <p>Weekly and monthly tests to evaluate student performance and improve learning.</p>
+                            </div>
+                        </div>
+
+                        <div class="instructor-carousel-item instructor-carousel-item-secondcolor swiper-slide">
+                            <div class="instructor-bg-shape">
+                                <img src="assets/images/overlay-shape.png" alt="shape">
+                            </div>
+
+                            <div class="instructor-item-thumb">
+                                <i class="bi bi-person-video3"></i>
+                            </div>
+
+                            <div class="intructor-item-content">
+                                <h3>One-on-One Coaching</h3>
+                                <p>Personalized learning with individual attention to strengthen concepts and improve performance.</p>
+                            </div>
+                        </div>
+
+                        <div class="instructor-carousel-item instructor-carousel-item-secondcolor swiper-slide">
+                            <div class="instructor-bg-shape">
+                                <img src="assets/images/overlay-shape.png" alt="shape">
+                            </div>
+
+                            <div class="instructor-item-thumb">
+                                <i class="bi bi-laptop"></i>
+                            </div>
+
+                            <div class="intructor-item-content">
+                                <h3>Online & Offline Classes</h3>
+                                <p>Choose the learning mode that suits you best with flexible online and classroom sessions.</p>
                             </div>
                         </div>
 
@@ -156,7 +185,7 @@ ob_start();
                         <p>
                             <strong>Neev – Step Into Success</strong> is a dedicated coaching institute providing
                             quality
-                            education for students from <strong>Class 6th to 10th</strong>. Our goal is to strengthen
+                            education for students from <strong>Class 6th to 12th</strong>. Our goal is to strengthen
                             students' academic foundation through concept clarity, regular assessments, and personal
                             attention.
                         </p>
@@ -198,13 +227,13 @@ ob_start();
                 <div
                     class="about-section-title section-title section-title-left section-title-shapeless section-title-lineless section-title-thirdcolor">
                     <small class="font-family-3">Our Courses</small>
-                    <h2>Programs Designed For Students <span>From Class 6th To 10th</span></h2>
+                    <h2>Programs Designed For Students <span>From Class 6th to 12th</span></h2>
                 </div>
             </div>
             <div class="col-12 col-lg-6 offset-lg-1 pb-50 pbm-50">
                 <div class="about-feedback">
                     <p class="about-feedback-paragraph">
-                        At Neev – Step Into Success, we offer structured courses for students from Class 6th to 10th.
+                        At Neev – Step Into Success, we offer structured courses for students from Class 6th to 12th.
                         Our programs focus on concept clarity, regular practice, and exam-oriented preparation.
                     </p>
                 </div>
@@ -308,6 +337,50 @@ ob_start();
                             </div>
                         </div>
                     </div>
+
+                    <!-- Class 11 -->
+                    <div class="instructor-carousel-item swiper-slide p-0 border-0 bg-white">
+                        <div class="offer-card offer-card-thirdcolor">
+                            <div class="offer-card-inner">
+                                <div class="offer-card-thumb">
+                                    <img src="assets/images/courses/class-11th.jpg" alt="Class 11th Science">
+                                </div>
+
+                                <div class="offer-card-content">
+                                    <a href="class-eleven.php">
+                                        <h3>Class 11th Science</h3>
+                                    </a>
+                                    <p>Physics, Chemistry, Mathematics & Biology with concept-focused learning and personalized guidance.</p>
+                                </div>
+
+                                <a href="class-eleven.php" class="offer-redirect-link">
+                                    <i class="flaticon-right-arrow"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Class 12 -->
+                    <div class="instructor-carousel-item swiper-slide p-0 border-0 bg-white">
+                        <div class="offer-card offer-card-thirdcolor">
+                            <div class="offer-card-inner">
+                                <div class="offer-card-thumb">
+                                    <img src="assets/images/courses/class-12th.jpg" alt="Class 12th Science">
+                                </div>
+
+                                <div class="offer-card-content">
+                                    <a href="class-twelve.php">
+                                        <h3>Class 12th Science</h3>
+                                    </a>
+                                    <p>Board-focused preparation in Physics, Chemistry, Mathematics & Biology with mock tests and revision.</p>
+                                </div>
+
+                                <a href="class-twelve.php" class="offer-redirect-link">
+                                    <i class="flaticon-right-arrow"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <button class="classes-prev">
                     <i class="bi bi-arrow-left"></i>
@@ -336,7 +409,7 @@ ob_start();
 
                     <p>
                         Experience high-quality live online classes designed for students from
-                        Class 6th to 10th. Learn from expert faculty with live doubt-solving,
+                        Class 6th to 12th. Learn from expert faculty with live doubt-solving,
                         recorded lectures, regular assessments, and personalized guidance—all
                         from the comfort of your home.
                     </p>

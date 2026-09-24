@@ -211,6 +211,36 @@
                 </a>
             </div>
 
+            <!-- Founder 4 -->
+            <div class="col-md-4 col-sm-6">
+                <div class="team-card text-center">
+                    <div class="avatar-wrapper">
+                        <img src="assets/images/team/no-img.jpg" alt="Dr. Sima Singh" />
+                    </div>
+                    <h5 class="card-title mb-2">Dr. Sima Singh</h5>
+                    <!-- <p class="card-role">Senior Faculty</p> -->
+                    <p class="card-text">
+                        Dedicated educator committed to building strong academic foundations through
+                        personalized guidance, concept-based teaching, and student-focused learning.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Founder 5 -->
+            <div class="col-md-4 col-sm-6">
+                <div class="team-card text-center">
+                    <div class="avatar-wrapper">
+                        <img src="assets/images/team/no-img.jpg" alt="Meghna Ma'am" />
+                    </div>
+                    <h5 class="card-title mb-2">Meghna Ma'am</h5>
+                    <!-- <p class="card-role">Senior Faculty</p> -->
+                    <p class="card-text">
+                        Passionate mentor dedicated to nurturing young minds with creative teaching,
+                        confidence-building, and personalized academic support for every student.
+                    </p>
+                </div>
+            </div>
+
         </div><!-- /row -->
     </div>
 </section>

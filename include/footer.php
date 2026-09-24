@@ -13,7 +13,7 @@
                             <p>
                                 At Neev – Step Into Success, we help students strengthen their academic
                                 foundation through concept-based learning, regular tests, and expert
-                                guidance for Classes 6th to 10th.
+                                guidance for Classes 6th to 12th.
                             </p>
                         </div>
                     </div>
@@ -62,6 +62,13 @@
                                         <li>
                                             <a href="class-ten.php">Class X – Board Preparation</a>
                                         </li>
+                                        <li class="nav-item">
+                                            <a href="class-eleven.php">Class XI – Science (PCM & PCB)</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="class-twelve.php">Class XII – Science (PCM & PCB)</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -91,8 +98,8 @@
                                             </p>
                                         </div>
                                         <div class="footer-address-info-item footer-address-info-item-secondcolor">
-                                            <p class="footer-physical-address">A-78, near SUPREME TOWERS, Block B,<br>
-                                                Sector 99, Noida, Uttar Pradesh 201304</p>
+                                            <p class="footer-physical-address">A-78, near SUPREME TOWERS, Block B,
+                                                Sector 99,<br> Noida, Uttar Pradesh 201304</p>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +130,9 @@
                             Copyright ©
                             <script data-cfasync="false"
                                 src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-                            <script>document.write(new Date().getFullYear())</script>
+                            <script>
+                                document.write(new Date().getFullYear())
+                            </script>
                             <strong>Neev – Step Into Success</strong>. All Rights Reserved.
                             Design &amp; Developed By
                             <a href="https://hoverbusinessservices.com/" target="_blank">Hover Business Services LLP</a>

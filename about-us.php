@@ -48,7 +48,7 @@ ob_start();
                         <h2>Foundation for <span>Academic Success</span></h2>
                         <p>
                             <strong>Neev – Step Into Success</strong> is a trusted coaching institute dedicated to
-                            nurturing young minds from <strong>Class 6th to 10th</strong>. Our mission is to provide
+                            nurturing young minds from <strong>Class 6th to 12th</strong>. Our mission is to provide
                             quality education that builds strong conceptual understanding and prepares students
                             for long-term academic success.
                         </p>
@@ -179,7 +179,7 @@ ob_start();
             <div class="col-12 col-lg-7 pb-30">
                 <div class="section-title section-title-left text-start">
                    <h2>Frequently Asked <span>Questions</span></h2>
-                    <p>We provide quality coaching for students from Class 6th to 10th with a focus on concept clarity,
+                    <p>We provide quality coaching for students from Class 6th to 12th with a focus on concept clarity,
                         regular practice, and exam-oriented preparation to help students achieve academic excellence.
                     </p>
                 </div>
@@ -193,7 +193,7 @@ ob_start();
                         </div>
                         <div class="faq-accordion-body">
                             <div class="faq-accordion-body-inner">
-                                <p>We provide coaching for students from Class 6th to 10th with a strong focus on
+                                <p>We provide coaching for students from Class 6th to 12th with a strong focus on
                                     Mathematics,
                                     Science, and overall academic development.</p>
                             </div>
